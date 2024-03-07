@@ -1,0 +1,173 @@
+Satifaction
+- Status Closed
+- Have user PIC 
+- Close by month
+
+PMO Stering meeting on 16 Nov 22
+- Preapre CC and open FW
+- Tee send email
+- Aling Invite present 16 Nov 22
+- Meeting with all PMO memer (1hour)
+	- User 2 Session
+	- IT 1 Session
+- user Send Evaluaton and presentation: 8  Nov 22
+- PMO 9 - 11 Nov 22 Reveiws
+
+
+
+Kaizen:
+1. Company support to each department to improve process - Kaizen project ต้องถูกทำ (ไม่สำคัญแต่ควรจะทำ)
+2. บางงานของ Kaizen อาจจะแก้ได้ง่ายกว่านี้ เพื่อลดกระบวนการ หรือปรับปรุงได้ดีกว่านี้
+
+
+22 Jul 22
+- ไปทำกับ E-kyc เช็คก่อน Second card for DYC and DYCA (Big C Exclusive, ROP and BIG C Credit Card) 
+(4 Aug 22: waiting confrim with K. X again) Already discussed with eKYC team , JDM , eBiz to merge second card function to on eKYC flow (Benefit : ease of select channel, auto check customer status and save NDID cost.)
+
+- Estimate total effort กำหนดระยะเวลาว่าจะทำกี่เดือน เพื่อให้เสร็จตรง target date
+- Size
+- not for H M L,  user need to reschedule other project / Monitoring 1 month?
+- updat IT Onwer: Not IT Relate and status: Not IT Relate
+- Closed account letter on AEON Mobile app / Mobile Collection Chat
+        -  need to postpone system เพราะ mobile มีปัญหา
+- Start date / Go Live Date
+- Create user for Director / View System
+
+Remark for Risa
+- make report simply, and easy to do report
+- remove color and only put red color for delay or other color
+- Master Plan เอาออก แล้วใส่ Original prooject / Put Size of project / 
+
+Follow up 20 Jul 2022
+- Register system to CQS
+- Email process: 1. Email 0365 2. HMail (smtp port 25) / Mail:webpri_noreply / Mail Server IP: / Port:
+- Draft mail notification
+
+Email:
+1. Send mail for update 1 times on 15 of each month
+2. After 7 days remind before date line 1 days
+3. Final 1. ใครไม่เข้ามา update 2. status ไม่ตรงกัน
+
+BOT Revise operation support
+Tablue tablet
+
+1. เรียง project A - Z
+2. main project ไม่ต้อง update หากไม่มีกรุ๊ป project เช่น E-kyc
+3. Project owner จะต้องเป็นคน Add project ใหม่เอง
+4. New Target date ให้ระบุ user กับ IT เพื่อไม่ซ้ำซ้อน
+5. Fill ที่ update ให้ใส่กรอบสีเหลือง
+6. Business /  System ให้ทำ dropdown
+7. non master - change name "Remark"
+
+D:\RPA\HR_Payroll\2.0.Report for User\HR_PayRoll 6
+ถ้าหมดอายุ จะใช่ต่อได้ 7 วัน
+fandamental  2 seat / join
+Advance 
+Overview join class ไม่จำกัด
+
+on site /online 
+- user ใหม่เลย 3 ชม.
+- offer clinic ได้ให้สอนเป็นกรณีๆไป 1 วัน
+
+Pawaphop Kemthong <pawaphopk@aeon.co.th>; Theywun Kanjanapun <theywunk@aeon.co.th>; Parintorn Wongwit <parintornw@aeon.co.th>; Nithithorn Yomjun <nithithorny@aeon.co.th>; Wimonsiri Wongjanarat <wimonsiriw@aeon.co.th>; Alisa Pakdeekasem <alisap@aeon.co.th>; Sataporn Puapan <satapornp@aeon.co.th>; Nuttanun Suwattanawong <nuttanuns@aeon.co.th>; Sunthorn Wattanathaworn <sunthornw@aeon.co.th>; Amnat Keankasem <amnatke@aeon.co.th>; Worapat Theerawatthanakul <worapatt@aeon.co.th>; Jessada Makphanitwat <jessadam@aeon.co.th>; Aphisak Komonwatanapanich <aphisakk@aeon.co.th>; Atisak Songthong <atisaks@aeon.co.th>; Suchada Sae-ung <suchadas@aeon.co.th>; Armorn Kapkaew <armornk@aeon.co.th>; Poohkrit Wisedkup <poohkritw@aeon.co.th>; Tanin Uaraksakul <taninu@aeon.co.th>; Akkharasaran Sritatera <akkharasarans@aeon.co.th>; Nichakul Kitsanachuwong <nichakulk@aeon.co.th>; Watcharin Monpengpinit <watcharinm@aeon.co.th>; PMO <pmo@aeon.co.th>
+PMO Meeting:
+- final fomat form Meeting on 19 May 2022
+- 
+
+Innovation
+- R & D ทำ project ใหม่
+- เราคิดค้น innovation ใหม่ๆ และให้ทีมอื่นทำต่อ
+Stategy
+- รวบรวข้อมูลของ IT ให้เป็นส่วนกลางทั้ง คน, งาน, ค่าใช้จ่าย
+- สร้างกลยุทธองค์กร  IT ควรเดินทางต่อไปอย่างไร/การ บริหารจัดการคน/ คนเข้าคนออก/ กำหนดทิศทาง
+- Budget Control / Investment Plan ค่าช้จ่ายของระบบ / เราจะเห็นเงินเข้า เงินออก / อะไรซ้ำ / อะไรควรซื้อ
+- Man power ทีมนี้คนเยอะไป คนน้อยเกินไป
+
+
+operation design
+- คุยเรื่อง madatory 
+- อะไรแชร์ได้ แชร์มา - ขอภายในวันศุกร์ที่ 13
+- Set Standard form แต่ละ project 
+ทาง Internal Audit จะมาตรวจสอบตาม policy ใหม่ที่ขึ้นของ PMO
+
+NSA:
+Client Solution ขึ้นพร้อมกันไหม
+ACSS ไม่ต้องอัพเดทให้อาหริ่ง
+ให้พี่พัฒน์กับพี่ทร review ก่อนส่งให้อาหริ่ง
+
+เรียน PMO team,
+ตามที่ได้มีการพูดคุยกันเมื่อวันที่ 24/03/2022 เรื่อง Remove Project และข้อมูลที่ได้มีการสื่อสาร (เท่าที่ส้มได้ Noteก ไว้บางส่วน) ขออนุญาตสรุปข้อมูลดังนี้นะคะ
+1.ตามที่คุณเอ็กซ์ ได้แจ้งคือ Project 2021 ที่มีสถานะ Haven’t Start Yet, Requirement Gathering ให้ PMO ที่ดูแล Department นั้นๆ สอบถามกับทาง User ว่า Project ดังกล่าวจะทำต่อไป FY 2022 หรือไม่ 
+หาก User ยืนยันจะทำต่อใน FY 2022 ให้ Confirm กลับมาทาง email และทาง PMO จะทำการลงข้อมูลในชีท Master Plan 2022
+2.Project ของปี 2021 ถ้า User มีการ Confirm กลับมาแล้วว่าจะไม่ทำ หรือ Project ที่ Duplicate กัน (แต่ต้องเป็น Project ที่อยู่ภายในแผนกเดียวกันเท่านั้น) จะทำการยุบรวมกัน และให้ทำการขีดฆ่า
+3.Project ที่ชื่อเหมือนกัน แต่มีการแบ่งออกเป็นส่วนๆ ในการ Develop แต่ไม่สามารถขึ้นเฉพาะส่วนใดส่วนหนึ่งได้ หรือทุกส่วนจะต้องเสร็จทั้งหมดก่อนถึงสามารถ Go-live / Deliver ได้ ให้ทำการ Duplicate ให้เหลือแค่ 1 ชื่อ และใส่ข้อมูลเพิ่มเติมใน Column : Sub Project
+4.Project ที่ชื่อเหมือนกัน แต่สามารถแบ่งเป็น Phase และทำการ Go-live / Deliver ได้โดยไม่กระทบต่อ Phase อื่นๆ ให้แยกออกมาเป็นอีก Row หรืออีกบรรทัด
+5.หลังจาก PMO ทำการ Update ข้อมูลเรียบร้อยแล้ว Project ไหนที่มีการขีดฆ่าให้ย้ายไปเก็บที่ Sheet Remove Project
+6.หลังจากเคลียร์ข้อมูล คือ ย้าย Project ที่ขีดฆ่า ไปเก็บที่ Sheet Remove และ Run Project Code เรียบร้อยแล้ว จะไม่สามารถทำการ Remove Project นั้นๆได้ เพราะจะใช้เป็น Master Data สำหรับทำการ Cross Department ของ FY 2022
+7.หากในระหว่างปี มีการขอเพิ่ม Project เข้ามาจะต้องแจ้งในห้องประชุม PMO หรือ PMO Steering committee หากในที่ประชุมอนุมัติแล้ว ทาง PMO จะเพิ่ม Project ใน Sheet Master Plan 2022.
+8.สำหรับ Project ที่มีอยู่ใน Master Plan 2022 ถ้ามีการ Postpone/Cancel ไม่ต้องลบออก หรือย้ายไปที่ Sheet Remove เพราะจะต้องใช้ข้อมูลสำหรับทำ Report ให้กับคุณเอ็กซ์ Present ใน IT Steering Committee ทุกๆเดือน เริ่มใช้ตั้งแต่เดือน มีนาคม 2022.
+
+
+PMO Weekly Meeting 18 April 2022
+- BOT data need - Tee หาข้อมูลเพิ่มก่อน / Tee รวบรวม รายละเอียด project ต่างๆ ของ BOT
+1. Project proposal & Chater
+2. Project Business requirment spece
+3. WBS
+4. User manual
+- Send contact person to Tee and then tee will follow up
+- Tee จะดูแลในส่วนของ ITD แทนพี่วิ และพี่วิจะรับผิดชอบของ ACSS
+- Next step ทำอะไรบ้าง และ guild ให้กับ ITD
+ให้ธี ส้ม อาหริ่งอ่าน \\sax-exc-clus\IT & System Dev. Department\System Planning\01Internal-Project\PMO\PMO Policy and Procedure\IT Steering Commitee\Final Version\EC
+
+Agenda:
+
+IT PM 
+1. form ดูยาก
+2. 
+
+User: SS22001 - SS22078
+IT: SS22150 - SS22280
+
+29 Mar 22
+- Prepare presentation Open / close meeting by K. X
+- Department Priority and Time line
+
+หน้าที่
+PMO
+- 
+
+Agenda on  24 Mar 22
+- Update project status for SPI
+- Evaluation Form
+
+
+
+1. PMO team ช่วยอัพเดทดังต่อไปนี้ (ช่วงที่ทำ Cross department update status monthly)
+	- ใส่ User PIC - person incharge (Column AT)
+	- Project Code (Column G) และ Sub Project Code (Column H) ซึ่งส้มจะส่งไฟล์มาสเตอร์ให้ที่ระบุวิธีการอยู่ใน sheet 1 และ running number จะอยู่ใน sheet ถัดไป
+	- จะต้องแก้ไข FY (Column K)  ในกรณีที่เป็น project ปี 21 และยกมา จะต้องใส่เป็นปี 21 เท่านั้น
+
+01/12/2021 18:02	02/12/2021 11:15	-	
+GeneralMemo
+ขออนุญาตเดินทางไปต่างจังหวัดของพนักงาน outsource
+[Memo2021120100212]
+
+AEON Thana Sinsap (Thailand) PLC.	ขออนุมัติให้ทาง True เข้าพื้นที่เพื่อทดสอบ CCTV ที่ MDF ชั้น 20
+
+System I -Xendesk ไม่ต้อง
+Xenapp - ขอ shortcut System I (WFH)/ System I Display Name
+Request Approve Compensate for Exclude Path on Anttivirus for Screen Record
+Subject:   Request Antivirus exclusion on Citrix Session Recording														
+Detail :   Provider Citrix recommend to exclued antivirus path for perfomance issue														
+
+	
+
+1. Create domain: sccmpush  - Password never expire : Yes
+2. Create domain: sccmadmin and intuneadmin
+1. USB test เพิ่มบน Phicical
+2. Block Install program and app stroe
+3. Desktop backgroud
+Device compliance and Condition Access
+1. ส่ง infromation เรื่อง Location ให้
+
+
